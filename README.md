@@ -3,4 +3,6 @@
 1. clonar
 2. ejecutar
 3. correr
-4. abrir servidor n
+4. abrir servidor 
+
+actualizacion
