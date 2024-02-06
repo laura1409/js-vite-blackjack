@@ -5,4 +5,4 @@
 3. correr
 4. abrir servidor 
 
-actualizacion
+actualizacio
